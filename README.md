@@ -46,6 +46,9 @@
 ⬦ I consistently pursued new opportunities to educate myself about my learners and involve myself in my surrounding community.
 
 ⬦ I decided to change industries in order to challenge myself to learn more skills.
+
 ⬦ I attended CodeWorks Academy in order to earn a certification in Full Stack Software Development.
+
 ⬦ Throughout the certification process, I have been consistently curious about what I could learn next. I want to acquire skills in new languages and frameworks that will allow me to build different types of applications.
+
 ⬦ I aspire to get involved in my community by teaching in STEM-related events.
