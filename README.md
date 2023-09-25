@@ -1,13 +1,7 @@
 ### Hi, I'm Rebecca VandeWater! 
 
-🚀 𝙌𝙪𝙞𝙘𝙠 𝙁𝙖𝙘𝙩𝙨
-
-⬦ My website: https://rebeccavandewater.github.io/
-
-⬦ I'm a former Elementary school teacher with a love for learning and the science behind it! I have a certification in full stack software engineering, with the goal of having a career in the industry.
-
-⬦ I have spent 3 years as a Dungeon Master in Dungeons & Dragons, and 4 years as a player.
-
+Check out my website! 
+https://rebeccavandewater.github.io/
 
 🏆 𝙈𝙮 𝘼𝙘𝙘𝙤𝙢𝙥𝙡𝙞𝙨𝙝𝙢𝙚𝙣𝙩𝙨
 
