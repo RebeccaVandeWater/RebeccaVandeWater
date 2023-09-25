@@ -13,11 +13,11 @@ https://rebeccavandewater.github.io/
 
 ⬦ Developed applications using partner coding, inquiry, and strategic teamwork.
 
-⬦ Graduated from Boise State University with a 3.71 GPA and a Bachelor of the Arts in Elementary Education, with an emphasis in Middle School Mathematics.
+⬦ Graduated from Boise State University with a Bachelor of the Arts in Elementary Education, with an emphasis in Middle School Mathematics.
 
 ⬦ Achieved the Dean's List with High Honors at Boise State University.
 
-⬦ Graduated from The College of Western Idaho with a 3.78 GPA and an Associate of the Arts in Elementary Education.
+⬦ Graduated from The College of Western Idaho with an Associate of the Arts in Elementary Education.
 
 
 📝 𝙈𝙮 𝙄𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙨
@@ -33,6 +33,10 @@ https://rebeccavandewater.github.io/
 
 📖 𝙈𝙮 𝙎𝙩𝙤𝙧𝙮
 
+⬦ I attended CodeWorks Academy in order to earn a certification in Full Stack Software Development.
+
+⬦ Throughout the certification process, I have been consistently curious about what I could learn next. I want to acquire skills in new languages and frameworks that will allow me to build different types of applications.
+
 ⬦ I spent 7 years working for the Boise School District as a childcare provider and an educator.
 
 ⬦ I developed flexibility as I was given new tasks and expectations. I even finished my Bachelor's degree while teaching a full-time classroom, during the pandemic!
@@ -40,9 +44,5 @@ https://rebeccavandewater.github.io/
 ⬦ I consistently pursued new opportunities to educate myself about my learners and involve myself in my surrounding community.
 
 ⬦ I decided to change industries in order to challenge myself to learn more skills.
-
-⬦ I attended CodeWorks Academy in order to earn a certification in Full Stack Software Development.
-
-⬦ Throughout the certification process, I have been consistently curious about what I could learn next. I want to acquire skills in new languages and frameworks that will allow me to build different types of applications.
 
 ⬦ I aspire to get involved in my community by teaching in STEM-related events.
