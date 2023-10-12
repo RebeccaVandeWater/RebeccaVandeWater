@@ -3,6 +3,8 @@
 Check out my website! 
 https://rebeccavandewater.github.io/
 
+I am currently working in a private repository! If it doesn't look like I have been coding, rest assured that I am still very engaged!
+
 🏆 𝙈𝙮 𝘼𝙘𝙘𝙤𝙢𝙥𝙡𝙞𝙨𝙝𝙢𝙚𝙣𝙩𝙨
 
 ⬦ Worked for over 500 hours developing applications.
